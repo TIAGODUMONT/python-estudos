@@ -1,0 +1,6 @@
+[submodule "projeto-03-banco-flask"]
+	path = projeto-03-banco-flask
+	url = https://github.com/TIAGODUMONT/agencia-dumont-flask.git
+[submodule "projeto-04-analise-ecommerce"]
+	path = projeto-04-analise-ecommerce
+	url = https://github.com/TIAGODUMONT/analise-ecommerce-python.git

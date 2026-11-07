@@ -1,0 +1,48 @@
+{
+  // Python do .venv
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python-envs.defaultEnvManager": "ms-python.python:venv",
+
+  // Pylance: lista de sugestões, nomes de funções, parâmetros, auto-import
+  "python.languageServer": "Pylance",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.indexing": true,
+  "python.analysis.userFileIndexingLimit": -1,
+  "python.analysis.packageIndexDepths": [
+    { "name": "pandas", "depth": 4, "includeAllSymbols": true },
+    { "name": "numpy", "depth": 4, "includeAllSymbols": true },
+    { "name": "matplotlib", "depth": 4, "includeAllSymbols": true },
+    { "name": "sklearn", "depth": 4, "includeAllSymbols": true }
+  ],
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.callArgumentNames": "partial",
+
+  // Editor: sugestões aparecem sozinhas enquanto digita
+  "editor.quickSuggestions": { "other": "on", "comments": "off", "strings": "on" },
+  "editor.quickSuggestionsDelay": 10,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.wordBasedSuggestions": "matchingDocuments",
+  "editor.suggest.showFunctions": true,
+  "editor.suggest.showVariables": true,
+  "editor.suggest.showMethods": true,
+  "editor.suggest.preview": true,
+  "editor.parameterHints.enabled": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.tabCompletion": "on",
+  "editor.inlayHints.enabled": "onUnlessPressed",
+
+  // IA (Copilot): texto cinza completando a linha/função, aceita com Tab
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": { "*": true, "python": true },
+  "github.copilot.nextEditSuggestions.enabled": true,
+
+  "files.associations": { "*.PY": "python" },
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true
+  },
+  "files.exclude": { "**/__pycache__": true }
+}

@@ -1,0 +1,302 @@
+﻿id_venda;data;produto;categoria;cidade;vendedor;quantidade;preco_unitario;avaliacao
+1001;2026-01-01;Teclado;Informática;Rio de Janeiro;Bruno;5;139,13;5,0
+1002;2026-01-01;Capinha;Telefonia;Belo Horizonte;Bruno;2;40,34;4,0
+1003;2026-01-01;Carregador;Telefonia;Curitiba;Carla;2;92,33;2,0
+1004;2026-01-02;Carregador;Telefonia;Porto Alegre;Carla;3;88,71;4,0
+1005;2026-01-03;Celular;Telefonia;Belo Horizonte;Ana;4;2360,1;3,0
+1006;2026-01-03;Smartwatch;Acessórios;Rio de Janeiro;Carla;5;880,21;5,0
+1007;2026-01-03;Teclado;Informática;Belo Horizonte;Bruno;4;150,33;3,0
+1008;2026-01-05;Monitor;Informática;Rio de Janeiro;Ana;5;1015,11;4,0
+1009;2026-01-06;Mouse;Informática;Porto Alegre;Bruno;5;81,02;4,0
+1010;2026-01-07;Notebook;Informática;Rio de Janeiro;Ana;4;3686,51;2,0
+1011;2026-01-07;Mouse;Informática;Rio de Janeiro;Ana;4;83,7;4,0
+1012;2026-01-08;Capinha;Telefonia;Porto Alegre;Bruno;3;38,06;3,0
+1013;2026-01-08;Capinha;Telefonia;Belo Horizonte;Diego;2;43,93;5,0
+1014;2026-01-09;Mouse;Informática;Rio de Janeiro;Ana;1;83,52;5,0
+1015;2026-01-10;Celular;Telefonia;Curitiba;Diego;1;2166,45;4,0
+1016;2026-01-10;Fone de ouvido;Áudio;Rio de Janeiro;Ana;5;245,75;5,0
+1017;2026-01-11;Celular;Telefonia;Curitiba;Diego;2;2322,9;3,0
+1018;2026-01-11;Celular;Telefonia;Curitiba;Ana;1;2057,3;4,0
+1019;2026-01-11;Teclado;Informática;Rio de Janeiro;Carla;1;154,19;4,0
+1020;2026-01-11;Smartwatch;Acessórios;Porto Alegre;Bruno;1;939,39;3,0
+1021;2026-01-13;Fone de ouvido;Áudio;São Paulo;Ana;2;250,82;
+1022;2026-01-15;Celular;Telefonia;Rio de Janeiro;Bruno;4;2364,21;5,0
+1023;2026-01-16;Celular;Telefonia;Curitiba;Bruno;5;2186,2;3,0
+1024;2026-01-17;Mouse;Informática;Belo Horizonte;Carla;5;79,44;3,0
+1025;2026-01-17;Mouse;Informática;Belo Horizonte;Carla;5;76,55;5,0
+1026;2026-01-17;Fone de ouvido;Áudio;Porto Alegre;Bruno;4;270,97;5,0
+1027;2026-01-18;Carregador;Telefonia;Porto Alegre;Bruno;2;86,69;4,0
+1028;2026-01-18;Capinha;Telefonia;Belo Horizonte;Ana;3;41,56;5,0
+1029;2026-01-18;Carregador;Telefonia;Rio de Janeiro;Bruno;4;88,37;
+1030;2026-01-20;Mouse;Informática;São Paulo;Bruno;1;86,97;5,0
+1031;2026-01-20;Capinha;Telefonia;São Paulo;Diego;4;43,58;4,0
+1032;2026-01-20;Capinha;Telefonia;São Paulo;Diego;1;36,24;3,0
+1033;2026-01-21;Capinha;Telefonia;Rio de Janeiro;Diego;2;43,96;4,0
+1034;2026-01-22;Fone de ouvido;Áudio;Salvador;Bruno;5;255,25;4,0
+1035;2026-01-23;Capinha;Telefonia;Rio de Janeiro;Ana;2;36,59;5,0
+1036;2026-01-24;Notebook;Informática;Rio de Janeiro;Bruno;5;3497,92;4,0
+1037;2026-01-24;Notebook;Informática;Rio de Janeiro;Bruno;5;3184,63;4,0
+1038;2026-01-25;Notebook;Informática;Belo Horizonte;Diego;2;3534,23;1,0
+1039;2026-01-25;Teclado;Informática;Salvador;Diego;5;140,56;5,0
+1040;2026-01-26;Teclado;Informática;Curitiba;Bruno;5;146,04;4,0
+1041;2026-01-27;Mouse;Informática;Rio de Janeiro;Ana;5;76,88;5,0
+1042;2026-01-28;Caixa de som;Áudio;São Paulo;Diego;3;408,18;3,0
+1043;2026-01-28;Notebook;Informática;Curitiba;Carla;5;3725,65;5,0
+1044;2026-01-28;Celular;Telefonia;Rio de Janeiro;Diego;2;2392,08;5,0
+1045;2026-01-28;Mouse;Informática;Porto Alegre;Bruno;2;77,26;4,0
+1046;2026-01-29;Carregador;Telefonia;São Paulo;Bruno;3;91,25;3,0
+1047;2026-01-29;Notebook;Informática;Curitiba;Ana;2;3154,13;4,0
+1048;2026-01-30;Teclado;Informática;Rio de Janeiro;Carla;1;146,16;5,0
+1049;2026-02-02;Capinha;Telefonia;Rio de Janeiro;Bruno;4;43,69;3,0
+1050;2026-02-02;Caixa de som;Áudio;São Paulo;Bruno;3;369,51;2,0
+1051;2026-02-03;Capinha;Telefonia;Rio de Janeiro;Bruno;5;42,96;4,0
+1052;2026-02-04;Celular;Telefonia;Curitiba;Ana;1;2267,1;3,0
+1053;2026-02-04;Celular;Telefonia;Curitiba;Diego;2;2109,31;5,0
+1054;2026-02-04;Mouse;Informática;Rio de Janeiro;Bruno;4;84,45;5,0
+1055;2026-02-05;Caixa de som;Áudio;Porto Alegre;Bruno;4;383,14;5,0
+1056;2026-02-06;Notebook;Informática;Rio de Janeiro;Carla;3;3776,37;5,0
+1057;2026-02-06;Capinha;Telefonia;Rio de Janeiro;Diego;4;36,66;4,0
+1058;2026-02-08;Smartwatch;Acessórios;Belo Horizonte;Diego;5;831,42;3,0
+1059;2026-02-08;Capinha;Telefonia;São Paulo;Carla;5;42,0;5,0
+1060;2026-02-08;Notebook;Informática;Rio de Janeiro;Ana;5;3464,42;5,0
+1061;2026-02-09;Teclado;Informática;Porto Alegre;Bruno;5;139,42;5,0
+1062;2026-02-10;Teclado;Informática;Curitiba;Carla;2;150,4;5,0
+1063;2026-02-10;Mouse;Informática;São Paulo;Diego;4;76,75;5,0
+1064;2026-02-10;Celular;Telefonia;Porto Alegre;Bruno;2;2221,7;3,0
+1065;2026-02-11;Carregador;Telefonia;Curitiba;Diego;5;94,39;5,0
+1066;2026-02-13;Teclado;Informática;Rio de Janeiro;Ana;5;160,71;4,0
+1067;2026-02-13;Capinha;Telefonia;São Paulo;Bruno;3;36,47;4,0
+1068;2026-02-14;Carregador;Telefonia;Porto Alegre;Diego;3;91,66;4,0
+1069;2026-02-14;Mouse;Informática;São Paulo;Ana;1;87,74;3,0
+1070;2026-02-14;Carregador;Telefonia;Belo Horizonte;Carla;1;89,28;4,0
+1071;2026-02-14;Capinha;Telefonia;Rio de Janeiro;Ana;1;42,16;4,0
+1072;2026-02-16;Mouse;Informática;Belo Horizonte;Ana;1;73,56;4,0
+1073;2026-02-18;Caixa de som;Áudio;São Paulo;Ana;2;429,88;5,0
+1074;2026-02-18;Celular;Telefonia;Rio de Janeiro;Diego;5;2236,1;5,0
+1075;2026-02-19;Celular;Telefonia;Belo Horizonte;Diego;4;2370,84;5,0
+1076;2026-02-20;Mouse;Informática;Belo Horizonte;Ana;3;84,59;5,0
+1077;2026-02-20;Celular;Telefonia;São Paulo;Carla;4;2362,47;3,0
+1078;2026-02-20;Celular;Telefonia;Salvador;Ana;1;2005,21;4,0
+1079;2026-02-21;Capinha;Telefonia;São Paulo;Diego;4;41,72;2,0
+1080;2026-02-24;Capinha;Telefonia;Rio de Janeiro;Bruno;3;37,58;4,0
+1081;2026-02-24;Teclado;Informática;São Paulo;Ana;1;142,97;5,0
+1082;2026-02-24;Carregador;Telefonia;São Paulo;Diego;3;86,85;
+1083;2026-02-25;Capinha;Telefonia;Rio de Janeiro;Diego;4;40,73;5,0
+1084;2026-02-26;Capinha;Telefonia;Curitiba;Ana;3;41,02;5,0
+1085;2026-02-28;Mouse;Informática;Porto Alegre;Bruno;5;86,9;4,0
+1086;2026-02-28;Notebook;Informática;São Paulo;Diego;5;3158,9;5,0
+1087;2026-03-03;Celular;Telefonia;São Paulo;Bruno;2;2065,11;4,0
+1088;2026-03-03;Mouse;Informática;Rio de Janeiro;Carla;5;77,79;4,0
+1089;2026-03-03;Caixa de som;Áudio;Porto Alegre;Diego;2;425,44;4,0
+1090;2026-03-04;Smartwatch;Acessórios;Rio de Janeiro;Ana;1;908,98;3,0
+1091;2026-03-04;Monitor;Informática;Salvador;Bruno;4;1102,64;4,0
+1092;2026-03-06;Teclado;Informática;Porto Alegre;Carla;1;157,81;4,0
+1093;2026-03-06;Fone de ouvido;Áudio;Belo Horizonte;Diego;2;257,75;5,0
+1094;2026-03-07;Celular;Telefonia;Porto Alegre;Bruno;3;2107,54;4,0
+1095;2026-03-07;Mouse;Informática;Porto Alegre;Diego;4;73,39;3,0
+1096;2026-03-08;Monitor;Informática;Rio de Janeiro;Carla;5;1091,71;5,0
+1097;2026-03-09;Mouse;Informática;São Paulo;Bruno;5;86,08;3,0
+1098;2026-03-09;Celular;Telefonia;Rio de Janeiro;Carla;4;2243,18;5,0
+1099;2026-03-10;Capinha;Telefonia;Rio de Janeiro;Diego;5;36,43;5,0
+1100;2026-03-10;Monitor;Informática;São Paulo;Carla;4;1086,82;4,0
+1101;2026-03-10;Monitor;Informática;Rio de Janeiro;Carla;5;1074,61;4,0
+1102;2026-03-10;Caixa de som;Áudio;Belo Horizonte;Diego;3;406,59;3,0
+1103;2026-03-11;Mouse;Informática;São Paulo;Carla;1;81,39;2,0
+1104;2026-03-12;Teclado;Informática;São Paulo;Ana;2;163,54;2,0
+1105;2026-03-12;Teclado;Informática;São Paulo;Diego;3;145,14;
+1106;2026-03-13;Fone de ouvido;Áudio;São Paulo;Diego;5;245,4;4,0
+1107;2026-03-14;Mouse;Informática;Salvador;Bruno;3;81,82;5,0
+1108;2026-03-14;Carregador;Telefonia;;Bruno;1;96,96;4,0
+1109;2026-03-15;Caixa de som;Áudio;São Paulo;Carla;3;416,49;5,0
+1110;2026-03-16;Teclado;Informática;São Paulo;Diego;4;149,13;5,0
+1111;2026-03-16;Mouse;Informática;Rio de Janeiro;Carla;5;85,03;3,0
+1112;2026-03-16;Carregador;Telefonia;São Paulo;Diego;1;89,74;4,0
+1113;2026-03-17;Mouse;Informática;Rio de Janeiro;Ana;2;87,42;
+1114;2026-03-17;Mouse;Informática;São Paulo;Diego;3;76,52;1,0
+1115;2026-03-19;Mouse;Informática;São Paulo;Bruno;3;74,04;5,0
+1116;2026-03-19;Mouse;Informática;Curitiba;Bruno;5;85,29;4,0
+1117;2026-03-19;Capinha;Telefonia;São Paulo;Ana;2;38,38;3,0
+1118;2026-03-20;Teclado;Informática;Belo Horizonte;Bruno;3;160,42;2,0
+1119;2026-03-21;Teclado;Informática;Rio de Janeiro;Bruno;2;153,28;5,0
+1120;2026-03-21;Capinha;Telefonia;Rio de Janeiro;Diego;1;40,07;4,0
+1121;2026-03-21;Celular;Telefonia;Curitiba;Bruno;2;2018,29;1,0
+1122;2026-03-22;Mouse;Informática;São Paulo;Diego;3;84,58;5,0
+1123;2026-03-22;Fone de ouvido;Áudio;Salvador;Carla;1;228,3;3,0
+1124;2026-03-22;Capinha;Telefonia;Curitiba;Bruno;4;43,72;5,0
+1125;2026-03-22;Monitor;Informática;Porto Alegre;Bruno;2;1182,93;4,0
+1126;2026-03-22;Carregador;Telefonia;;Diego;1;86,45;4,0
+1127;2026-03-26;Mouse;Informática;Porto Alegre;Carla;3;74,05;4,0
+1128;2026-03-26;Carregador;Telefonia;Belo Horizonte;Bruno;2;96,94;5,0
+1129;2026-03-26;Carregador;Telefonia;Curitiba;Carla;4;89,64;5,0
+1130;2026-03-26;Capinha;Telefonia;São Paulo;Bruno;1;37,0;5,0
+1131;2026-03-27;Carregador;Telefonia;Salvador;Ana;4;89,97;2,0
+1132;2026-03-28;Monitor;Informática;;Diego;3;1044,3;4,0
+1133;2026-03-28;Mouse;Informática;São Paulo;Ana;4;78,53;3,0
+1134;2026-03-29;Fone de ouvido;Áudio;Rio de Janeiro;Bruno;2;257,01;
+1135;2026-03-29;Carregador;Telefonia;São Paulo;Bruno;5;97,48;3,0
+1136;2026-03-30;Mouse;Informática;Curitiba;Bruno;3;84,81;3,0
+1137;2026-03-31;Teclado;Informática;Salvador;Ana;5;139,83;5,0
+1138;2026-03-31;Caixa de som;Áudio;Salvador;Bruno;2;398,19;5,0
+1139;2026-04-01;Carregador;Telefonia;Belo Horizonte;Ana;5;89,85;5,0
+1140;2026-04-02;Capinha;Telefonia;Porto Alegre;Bruno;4;43,92;5,0
+1141;2026-04-02;Mouse;Informática;Porto Alegre;Carla;5;73,39;4,0
+1142;2026-04-03;Mouse;Informática;Belo Horizonte;Ana;1;80,17;4,0
+1143;2026-04-03;Carregador;Telefonia;Salvador;Ana;3;97,46;4,0
+1144;2026-04-03;Celular;Telefonia;Belo Horizonte;Ana;5;2155,49;3,0
+1145;2026-04-04;Carregador;Telefonia;Rio de Janeiro;Diego;2;85,71;4,0
+1146;2026-04-04;Smartwatch;Acessórios;Belo Horizonte;Diego;5;910,07;5,0
+1147;2026-04-04;Capinha;Telefonia;São Paulo;Ana;5;38,56;2,0
+1148;2026-04-04;Capinha;Telefonia;Porto Alegre;Carla;3;43,42;3,0
+1149;2026-04-05;Carregador;Telefonia;Porto Alegre;Bruno;4;82,53;4,0
+1150;2026-04-05;Monitor;Informática;Rio de Janeiro;Carla;3;1035,48;5,0
+1151;2026-04-05;Celular;Telefonia;Curitiba;Bruno;4;2016,9;4,0
+1152;2026-04-07;Mouse;Informática;Porto Alegre;Diego;5;83,39;5,0
+1153;2026-04-07;Carregador;Telefonia;Rio de Janeiro;Carla;4;86,28;2,0
+1154;2026-04-07;Carregador;Telefonia;São Paulo;Ana;2;97,2;3,0
+1155;2026-04-08;Carregador;Telefonia;São Paulo;Carla;3;97,09;4,0
+1156;2026-04-08;Fone de ouvido;Áudio;São Paulo;Ana;5;271,82;3,0
+1157;2026-04-10;Monitor;Informática;Rio de Janeiro;Carla;3;1046,35;5,0
+1158;2026-04-10;Fone de ouvido;Áudio;Rio de Janeiro;Bruno;2;225,03;5,0
+1159;2026-04-10;Notebook;Informática;Salvador;Bruno;4;3421,32;5,0
+1160;2026-04-11;Capinha;Telefonia;São Paulo;Bruno;4;43,7;1,0
+1161;2026-04-12;Caixa de som;Áudio;Curitiba;Carla;4;421,1;3,0
+1162;2026-04-12;Monitor;Informática;Porto Alegre;Diego;2;1003,13;5,0
+1163;2026-04-13;Caixa de som;Áudio;Curitiba;Carla;3;416,21;5,0
+1164;2026-04-14;Carregador;Telefonia;Rio de Janeiro;Bruno;4;97,51;4,0
+1165;2026-04-14;Monitor;Informática;São Paulo;Bruno;2;1202,9;4,0
+1166;2026-04-14;Capinha;Telefonia;Curitiba;Bruno;5;41,73;4,0
+1167;2026-04-15;Capinha;Telefonia;São Paulo;Bruno;3;42,9;4,0
+1168;2026-04-15;Monitor;Informática;São Paulo;Carla;1;1175,17;5,0
+1169;2026-04-15;Mouse;Informática;Curitiba;Diego;2;77,73;4,0
+1170;2026-04-15;Carregador;Telefonia;Porto Alegre;Ana;5;82,78;3,0
+1171;2026-04-16;Smartwatch;Acessórios;São Paulo;Bruno;4;940,94;1,0
+1172;2026-04-16;Mouse;Informática;São Paulo;Ana;3;74,19;
+1173;2026-04-16;Carregador;Telefonia;Salvador;Diego;3;87,92;5,0
+1174;2026-04-17;Capinha;Telefonia;São Paulo;Carla;2;43,97;4,0
+1175;2026-04-17;Capinha;Telefonia;Porto Alegre;Ana;5;40,48;5,0
+1176;2026-04-19;Mouse;Informática;São Paulo;Diego;2;80,35;2,0
+1177;2026-04-19;Mouse;Informática;Curitiba;Bruno;5;87,17;4,0
+1178;2026-04-20;Smartwatch;Acessórios;São Paulo;Bruno;1;861,13;5,0
+1179;2026-04-20;Mouse;Informática;Belo Horizonte;Bruno;3;87,99;5,0
+1180;2026-04-21;Mouse;Informática;São Paulo;Carla;2;86,59;2,0
+1181;2026-04-21;Caixa de som;Áudio;Belo Horizonte;Carla;3;389,11;4,0
+1182;2026-04-22;Fone de ouvido;Áudio;Curitiba;Ana;4;241,36;4,0
+1183;2026-04-23;Carregador;Telefonia;São Paulo;Carla;1;83,28;5,0
+1184;2026-04-24;Mouse;Informática;São Paulo;Bruno;1;86,65;4,0
+1185;2026-04-24;Capinha;Telefonia;Porto Alegre;Diego;3;37,49;3,0
+1186;2026-04-24;Mouse;Informática;Belo Horizonte;Carla;4;72,14;5,0
+1187;2026-04-26;Carregador;Telefonia;Rio de Janeiro;Diego;1;97,02;4,0
+1188;2026-04-26;Mouse;Informática;Belo Horizonte;Bruno;5;81,57;5,0
+1189;2026-04-27;Fone de ouvido;Áudio;Rio de Janeiro;Carla;3;258,59;4,0
+1190;2026-04-27;Notebook;Informática;Curitiba;Bruno;5;3663,2;
+1191;2026-04-27;Teclado;Informática;São Paulo;Diego;1;136,28;3,0
+1192;2026-04-30;Teclado;Informática;Porto Alegre;Carla;5;137,76;2,0
+1193;2026-04-30;Carregador;Telefonia;Belo Horizonte;Diego;4;90,0;3,0
+1194;2026-04-30;Fone de ouvido;Áudio;Porto Alegre;Carla;5;227,51;3,0
+1195;2026-05-01;Notebook;Informática;Rio de Janeiro;Diego;5;3503,03;4,0
+1196;2026-05-02;Smartwatch;Acessórios;Porto Alegre;Ana;1;942,54;4,0
+1197;2026-05-03;Capinha;Telefonia;Porto Alegre;Ana;1;41,26;4,0
+1198;2026-05-04;Capinha;Telefonia;Rio de Janeiro;Carla;5;40,93;5,0
+1199;2026-05-04;Teclado;Informática;São Paulo;Ana;3;136,39;1,0
+1200;2026-05-04;Monitor;Informática;Salvador;Ana;2;1042,06;2,0
+1201;2026-05-05;Teclado;Informática;Porto Alegre;Carla;4;161,92;5,0
+1202;2026-05-06;Mouse;Informática;São Paulo;Diego;5;73,97;4,0
+1203;2026-05-07;Notebook;Informática;Porto Alegre;Bruno;2;3523,26;4,0
+1204;2026-05-09;Fone de ouvido;Áudio;São Paulo;Ana;5;227,5;3,0
+1205;2026-05-10;Mouse;Informática;Rio de Janeiro;Carla;1;87,03;4,0
+1206;2026-05-10;Mouse;Informática;Curitiba;Bruno;4;74,75;3,0
+1207;2026-05-11;Capinha;Telefonia;Rio de Janeiro;Diego;2;39,28;5,0
+1208;2026-05-11;Fone de ouvido;Áudio;;Ana;3;252,34;5,0
+1209;2026-05-11;Mouse;Informática;Rio de Janeiro;Ana;4;83,5;4,0
+1210;2026-05-12;Celular;Telefonia;São Paulo;Diego;2;2392,48;1,0
+1211;2026-05-12;Teclado;Informática;São Paulo;Carla;1;157,09;
+1212;2026-05-12;Fone de ouvido;Áudio;São Paulo;Bruno;3;242,37;3,0
+1213;2026-05-15;Teclado;Informática;São Paulo;Bruno;5;137,26;5,0
+1214;2026-05-15;Fone de ouvido;Áudio;São Paulo;Carla;2;260,37;
+1215;2026-05-15;Celular;Telefonia;Rio de Janeiro;Ana;3;2407,9;5,0
+1216;2026-05-16;Caixa de som;Áudio;São Paulo;Diego;1;361,36;5,0
+1217;2026-05-16;Monitor;Informática;Porto Alegre;Bruno;2;1160,43;4,0
+1218;2026-05-17;Carregador;Telefonia;Salvador;Diego;1;84,17;5,0
+1219;2026-05-18;Capinha;Telefonia;São Paulo;Diego;1;39,68;4,0
+1220;2026-05-19;Mouse;Informática;Belo Horizonte;Ana;5;80,36;3,0
+1221;2026-05-19;Mouse;Informática;Belo Horizonte;Diego;5;81,83;4,0
+1222;2026-05-21;Mouse;Informática;São Paulo;Carla;5;87,83;4,0
+1223;2026-05-23;Smartwatch;Acessórios;São Paulo;Diego;4;933,73;5,0
+1224;2026-05-24;Smartwatch;Acessórios;Curitiba;Carla;1;880,63;5,0
+1225;2026-05-24;Teclado;Informática;Rio de Janeiro;Bruno;5;156,45;3,0
+1226;2026-05-25;Smartwatch;Acessórios;Curitiba;Carla;1;894,01;3,0
+1227;2026-05-26;Mouse;Informática;São Paulo;Bruno;2;78,61;4,0
+1228;2026-05-27;Fone de ouvido;Áudio;Belo Horizonte;Bruno;2;243,28;4,0
+1229;2026-05-27;Fone de ouvido;Áudio;Curitiba;Carla;4;249,67;5,0
+1230;2026-05-27;Capinha;Telefonia;Curitiba;Bruno;1;38,25;5,0
+1231;2026-05-28;Notebook;Informática;São Paulo;Diego;5;3319,47;
+1232;2026-05-28;Teclado;Informática;Belo Horizonte;Ana;1;139,45;5,0
+1233;2026-05-28;Celular;Telefonia;;Bruno;5;2173,7;5,0
+1234;2026-05-29;Mouse;Informática;Porto Alegre;Ana;3;76,69;3,0
+1235;2026-05-30;Teclado;Informática;São Paulo;Carla;2;160,11;4,0
+1236;2026-05-30;Fone de ouvido;Áudio;São Paulo;Carla;3;267,39;1,0
+1237;2026-05-31;Capinha;Telefonia;Curitiba;Ana;1;38,75;5,0
+1238;2026-05-31;Carregador;Telefonia;Rio de Janeiro;Ana;3;92,14;3,0
+1239;2026-05-31;Capinha;Telefonia;Rio de Janeiro;Carla;4;43,22;2,0
+1240;2026-06-02;Carregador;Telefonia;Salvador;Ana;2;87,46;4,0
+1241;2026-06-02;Carregador;Telefonia;Rio de Janeiro;Diego;5;90,98;4,0
+1242;2026-06-03;Capinha;Telefonia;São Paulo;Bruno;4;39,55;5,0
+1243;2026-06-03;Carregador;Telefonia;Rio de Janeiro;Carla;2;92,7;1,0
+1244;2026-06-03;Carregador;Telefonia;São Paulo;Ana;2;98,28;3,0
+1245;2026-06-03;Teclado;Informática;São Paulo;Carla;4;139,16;5,0
+1246;2026-06-05;Mouse;Informática;Belo Horizonte;Ana;2;87,45;5,0
+1247;2026-06-06;Carregador;Telefonia;Salvador;Ana;5;92,98;4,0
+1248;2026-06-06;Mouse;Informática;Belo Horizonte;Diego;3;84,73;4,0
+1249;2026-06-06;Capinha;Telefonia;Belo Horizonte;Diego;4;41,08;3,0
+1250;2026-06-07;Celular;Telefonia;Rio de Janeiro;Bruno;5;2362,94;5,0
+1251;2026-06-07;Teclado;Informática;Belo Horizonte;Diego;5;144,79;5,0
+1252;2026-06-08;Capinha;Telefonia;Porto Alegre;Ana;2;41,66;4,0
+1253;2026-06-08;Mouse;Informática;Belo Horizonte;Carla;3;76,23;3,0
+1254;2026-06-08;Fone de ouvido;Áudio;Curitiba;Carla;4;250,43;3,0
+1255;2026-06-08;Mouse;Informática;Belo Horizonte;Diego;3;82,9;4,0
+1256;2026-06-09;Smartwatch;Acessórios;São Paulo;Ana;2;846,2;4,0
+1257;2026-06-09;Caixa de som;Áudio;Belo Horizonte;Carla;4;364,89;2,0
+1258;2026-06-10;Capinha;Telefonia;Rio de Janeiro;Ana;5;42,33;4,0
+1259;2026-06-12;Teclado;Informática;São Paulo;Bruno;3;159,27;4,0
+1260;2026-06-12;Capinha;Telefonia;Belo Horizonte;Diego;2;41,33;3,0
+1261;2026-06-12;Carregador;Telefonia;Curitiba;Carla;4;86,79;4,0
+1262;2026-06-13;Celular;Telefonia;São Paulo;Diego;3;2269,6;4,0
+1263;2026-06-13;Smartwatch;Acessórios;Belo Horizonte;Ana;2;825,1;4,0
+1264;2026-06-14;Fone de ouvido;Áudio;Porto Alegre;Carla;5;258,13;4,0
+1265;2026-06-14;Fone de ouvido;Áudio;Rio de Janeiro;Diego;4;253,81;4,0
+1266;2026-06-14;Carregador;Telefonia;São Paulo;Ana;4;92,11;3,0
+1267;2026-06-15;Capinha;Telefonia;Rio de Janeiro;Diego;5;39,58;5,0
+1268;2026-06-16;Teclado;Informática;Belo Horizonte;Bruno;1;141,75;4,0
+1269;2026-06-17;Celular;Telefonia;Porto Alegre;Bruno;5;2299,39;4,0
+1270;2026-06-17;Mouse;Informática;Belo Horizonte;Ana;1;79,43;5,0
+1271;2026-06-18;Caixa de som;Áudio;São Paulo;Diego;1;419,63;5,0
+1272;2026-06-20;Carregador;Telefonia;Curitiba;Ana;5;87,56;5,0
+1273;2026-06-21;Mouse;Informática;Salvador;Diego;2;73,4;5,0
+1274;2026-06-21;Carregador;Telefonia;São Paulo;Ana;1;90,76;5,0
+1275;2026-06-21;Notebook;Informática;São Paulo;Ana;4;3585,93;5,0
+1276;2026-06-21;Smartwatch;Acessórios;São Paulo;Ana;2;975,92;3,0
+1277;2026-06-22;Fone de ouvido;Áudio;Curitiba;Carla;3;269,39;5,0
+1278;2026-06-22;Monitor;Informática;Salvador;Carla;5;1002,57;3,0
+1279;2026-06-22;Carregador;Telefonia;São Paulo;Ana;3;94,89;3,0
+1280;2026-06-22;Fone de ouvido;Áudio;Rio de Janeiro;Ana;1;238,07;3,0
+1281;2026-06-22;Carregador;Telefonia;São Paulo;Bruno;4;93,55;
+1282;2026-06-23;Mouse;Informática;Rio de Janeiro;Ana;1;78,07;1,0
+1283;2026-06-23;Caixa de som;Áudio;Salvador;Carla;2;385,77;5,0
+1284;2026-06-24;Caixa de som;Áudio;São Paulo;Diego;2;399,06;5,0
+1285;2026-06-25;Capinha;Telefonia;São Paulo;Bruno;5;40,24;5,0
+1286;2026-06-25;Notebook;Informática;Rio de Janeiro;Bruno;1;3636,14;3,0
+1287;2026-06-25;Fone de ouvido;Áudio;Belo Horizonte;Carla;3;256,89;4,0
+1288;2026-06-25;Celular;Telefonia;Porto Alegre;Bruno;3;2278,43;5,0
+1289;2026-06-25;Caixa de som;Áudio;Rio de Janeiro;Ana;3;390,73;1,0
+1290;2026-06-25;Mouse;Informática;São Paulo;Ana;3;82,84;3,0
+1291;2026-06-25;Celular;Telefonia;Rio de Janeiro;Carla;1;2131,97;3,0
+1292;2026-06-27;Teclado;Informática;Salvador;Diego;2;153,23;4,0
+1293;2026-06-27;Mouse;Informática;Porto Alegre;Carla;3;79,35;3,0
+1294;2026-06-27;Capinha;Telefonia;São Paulo;Carla;1;40,5;4,0
+1295;2026-06-28;Mouse;Informática;Curitiba;Ana;5;72,28;4,0
+1296;2026-06-29;Fone de ouvido;Áudio;Rio de Janeiro;Carla;5;249,94;5,0
+1297;2026-06-29;Carregador;Telefonia;Curitiba;Carla;3;84,96;4,0
+1298;2026-06-29;Carregador;Telefonia;São Paulo;Carla;5;87,94;5,0
+1299;2026-06-30;Caixa de som;Áudio;Curitiba;Ana;3;365,9;3,0
+1300;2026-06-30;Capinha;Telefonia;São Paulo;Ana;3;41,26;5,0
+1043;2026-01-28;Notebook;Informática;Curitiba;Carla;5;3725,65;5,0
