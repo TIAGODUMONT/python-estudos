@@ -4,3 +4,6 @@
 [submodule "projeto-04-analise-ecommerce"]
 	path = projeto-04-analise-ecommerce
 	url = https://github.com/TIAGODUMONT/analise-ecommerce-python.git
+[submodule "projeto-05-banksense-ai"]
+	path = projeto-05-banksense-ai
+	url = https://github.com/TIAGODUMONT/banksense-ai.git

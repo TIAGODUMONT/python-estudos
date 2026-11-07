@@ -13,6 +13,7 @@ O objetivo é chegar em agentes de IA, bots e automações para a [Dumont Web](h
 | [`projeto-02-media-notas`](projeto-02-media-notas) | Cálculo de média de notas |
 | [`projeto-03-banco-flask`](https://github.com/TIAGODUMONT/agencia-dumont-flask) | Site com Flask (repositório próprio) |
 | [`projeto-04-analise-ecommerce`](https://github.com/TIAGODUMONT/analise-ecommerce-python) | Análise de dados de e-commerce em Jupyter (repositório próprio) |
+| [`projeto-05-banksense-ai`](https://github.com/TIAGODUMONT/banksense-ai) | **BankSense AI**: pipeline completo de dados de um banco digital fictício, com PostgreSQL, Docker e dashboard com storytelling (repositório próprio) |
 | [`equacao.py`](equacao.py) | **Análise de sentimentos de reviews** com Machine Learning |
 
 ## Destaque: análise de sentimentos de reviews
