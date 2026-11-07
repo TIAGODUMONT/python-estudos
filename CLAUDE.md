@@ -14,6 +14,18 @@ Curso que ele está fazendo: **Fundamentos de Linguagem Python - Do Básico a Ap
 - Ao fim de cada explicação, sugira um exercício pequeno para fixar.
 - **Nunca resolva as avaliações ou provas do curso** (a avaliação final da DSA, quizzes, testes). Nesses casos, explique o conceito e deixe a resposta com ele.
 
+## GitHub: sempre em português
+
+Repositório: https://github.com/TIAGODUMONT/python-estudos
+
+Tudo que vai para o GitHub fica em **português do Brasil**:
+- mensagens de commit (ex.: `Adiciona análise de sentimentos`, `Corrige parêntese no DataFrame`)
+- README, descrição e tópicos do repositório
+- comentários e docstrings no código
+- nomes de variáveis, funções e arquivos, quando fizer sentido (`calcular_media`, `gerar_reviews.py`)
+
+Exceções: nomes de bibliotecas, comandos e termos técnicos sem tradução comum (pandas, Pipeline, F1-Score, deploy).
+
 ## Ambiente
 
 - Python 3.13, ambiente virtual em `.venv` (o VS Code já usa ele sozinho).
